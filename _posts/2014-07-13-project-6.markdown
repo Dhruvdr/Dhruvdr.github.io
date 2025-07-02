@@ -5,6 +5,7 @@ date: 2026-04-25
 img: submarine.png
 alt: image-alt
 project-date: May 2026
+client: The Client
 category: Customer Segmentation
 description: >
   • Segmented 4,338 customers into 4 clusters using RFM analysis, including high-frequency/high-spend (27.3%), 
@@ -13,4 +14,3 @@ description: >
     and Cluster 1 (40.6%) with 1,753 customers (low recency, high spend). 
   • Visualized segments to enhance customer targeting and marketing strategies.
 ---
-
