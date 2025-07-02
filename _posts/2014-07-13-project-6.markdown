@@ -6,7 +6,5 @@ img: submarine.png
 alt: image-alt
 project-date: May 2026
 category: Customer Segmentation
-description: • Segmented 4,338 customers into 4 clusters using RFM analysis, including high-frequency/high-spend (27.3%), balanced (29.1%), high-recency/low-spend (21.8%), and high-recency/low-frequency (21.6%) segments.
-• Optimized into 2 clusters using machine learning: Cluster 0 (59.4%) with 2,585 customers (high recency, low spend) and Cluster 1 (40.6%) with 1,753 customers (low recency, high spend).
-• Visualized segments to enhance customer targeting and marketing strategies.
+description: • Segmented 4,338 customers into 4 clusters using RFM analysis, including high-frequency/high-spend (27.3%), balanced (29.1%), high-recency/low-spend (21.8%), and high-recency/low-frequency (21.6%) segments. Optimized into 2 clusters using machine learning: Cluster 0 (59.4%) with 2,585 customers (high recency, low spend) and Cluster 1 (40.6%) with 1,753 customers (low recency, high spend). Visualized segments to enhance customer targeting and marketing strategies.
 ---
